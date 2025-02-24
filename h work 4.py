@@ -18,3 +18,4 @@ rect3 = rect1 + rect2
 print(rect1)
 print(rect2)
 print(rect3)
+
